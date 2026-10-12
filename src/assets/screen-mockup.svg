@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f0e8"/>
+      <stop offset="1" stop-color="#e1e8e9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4d6b1"/>
+      <stop offset="1" stop-color="#d6b8e4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#31414b" flood-opacity=".13"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="900" fill="url(#bg)"/>
+  <rect x="91" y="63" width="1258" height="774" rx="16" fill="#fff" filter="url(#shadow)"/>
+  <path d="M107 63h1226a16 16 0 0 1 16 16v43H91V79a16 16 0 0 1 16-16Z" fill="#fbfcfa"/>
+  <circle cx="119" cy="91" r="5" fill="#f08b80"/><circle cx="138" cy="91" r="5" fill="#f0c66d"/><circle cx="157" cy="91" r="5" fill="#8bc88c"/>
+  <rect x="575" y="80" width="290" height="22" rx="6" fill="#f0f2ef"/>
+  <text x="720" y="95" fill="#9aa39b" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">atelier.studio / home</text>
+  <rect x="91" y="122" width="1258" height="62" fill="#fff"/>
+  <text x="145" y="161" fill="#1e2c28" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1">F O R M E</text>
+  <text x="855" y="158" fill="#65736d" font-family="Arial,sans-serif" font-size="12">SHOP</text>
+  <text x="935" y="158" fill="#65736d" font-family="Arial,sans-serif" font-size="12">JOURNAL</text>
+  <text x="1033" y="158" fill="#65736d" font-family="Arial,sans-serif" font-size="12">OUR STORY</text>
+  <circle cx="1192" cy="153" r="13" fill="none" stroke="#53635b" stroke-width="1.5"/>
+  <path d="M1183 163h18l-2 13h-14Z" fill="none" stroke="#53635b" stroke-width="1.5"/>
+  <rect x="91" y="184" width="1258" height="2" fill="#f2f3f0"/>
+  <text x="162" y="280" fill="#76867d" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">THOUGHTFULLY MADE, MADE TO LAST</text>
+  <text x="158" y="355" fill="#23332e" font-family="Georgia,serif" font-size="58">Everyday objects,</text>
+  <text x="158" y="421" fill="#23332e" font-family="Georgia,serif" font-size="58" font-style="italic">a little more special.</text>
+  <text x="162" y="470" fill="#728078" font-family="Arial,sans-serif" font-size="15">Considered essentials for the slower moments of life.</text>
+  <text x="162" y="496" fill="#728078" font-family="Arial,sans-serif" font-size="15">Designed with care in Copenhagen.</text>
+  <rect x="162" y="533" width="150" height="48" rx="4" fill="#34483d"/>
+  <text x="237" y="563" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">EXPLORE THE SHOP</text>
+  <rect x="805" y="222" width="464" height="493" rx="8" fill="url(#hero)"/>
+  <circle cx="1033" cy="437" r="153" fill="#eee3d5" opacity=".45"/>
+  <rect x="929" y="348" width="211" height="250" rx="30" fill="#f3efe8" transform="rotate(-7 929 348)"/>
+  <rect x="954" y="365" width="163" height="198" rx="17" fill="#b97850" transform="rotate(-7 954 365)"/>
+  <rect x="970" y="381" width="131" height="165" rx="12" fill="#c98c63" transform="rotate(-7 970 381)"/>
+  <path d="M1010 475c20-42 61-49 78-1-23 2-49 15-60 39-12-10-18-23-18-38Z" fill="#d6ad86" opacity=".8"/>
+  <circle cx="1031" cy="458" r="17" fill="#e9c6a4"/>
+  <path d="M1018 407h42" stroke="#f1d9c6" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+  <rect x="1110" y="605" width="98" height="48" rx="24" fill="#f7f1e9" opacity=".94"/>
+  <text x="1159" y="634" fill="#56645b" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">HANDMADE</text>
+  <text x="162" y="715" fill="#9ba59e" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.8">MADE WITH INTENTION</text>
+  <text x="162" y="750" fill="#32433a" font-family="Georgia,serif" font-size="22">Less, but better.</text>
+  <rect x="91" y="778" width="1258" height="59" rx="0 0 16 16" fill="#f9faf7"/>
+  <text x="145" y="813" fill="#738077" font-family="Arial,sans-serif" font-size="10">FREE SHIPPING ON ORDERS OVER $100</text>
+  <text x="1294" y="813" fill="#738077" font-family="Arial,sans-serif" font-size="10" text-anchor="end">DESIGNED TO BE KEPT</text>
+</svg>
