@@ -21,3 +21,15 @@ npm run package
 ```
 
 Vite output is written to `dist/`. Electron Builder packages the app into `release/` for the current platform.
+
+To create the Windows NSIS installer (`.exe`) in `release/`, run:
+
+```bash
+npm run package -- --win
+```
+
+For a standalone portable Windows executable, run:
+
+```bash
+npm run package -- --win portable
+```

@@ -36,7 +36,10 @@
       "preload.js",
       "package.json"
     ],
-    "asar": true
+    "asar": true,
+    "win": {
+      "target": ["nsis"]
+    }
   },
   "allowScripts": {
     "electron@44.7.0": true
